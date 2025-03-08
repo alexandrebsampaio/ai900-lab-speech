@@ -46,7 +46,7 @@ Texto transcrito:
 ### 🎭 Exemplo de Texto para Avatar de Fala  
 Nesse caso testei fazendo uma brincadeira com minha filha, ela não deu muita bola mas eu achei incrível 😅
 
-![Avatar de Fala](output/video.mp4)  
+🎥 [Clique para assistir](output/video.mp4)
 
 ---
 
